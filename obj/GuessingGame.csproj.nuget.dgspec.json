@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/georgeflux/GuessingGame/GuessingGame.csproj": {}
+    "/Users/georgeflux/Desktop/Comp Sci code stuff/Projects/ProjectTemplate/GuessingGame/GuessingGame.csproj": {}
   },
   "projects": {
-    "/Users/georgeflux/GuessingGame/GuessingGame.csproj": {
+    "/Users/georgeflux/Desktop/Comp Sci code stuff/Projects/ProjectTemplate/GuessingGame/GuessingGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/georgeflux/GuessingGame/GuessingGame.csproj",
+        "projectUniqueName": "/Users/georgeflux/Desktop/Comp Sci code stuff/Projects/ProjectTemplate/GuessingGame/GuessingGame.csproj",
         "projectName": "GuessingGame",
-        "projectPath": "/Users/georgeflux/GuessingGame/GuessingGame.csproj",
+        "projectPath": "/Users/georgeflux/Desktop/Comp Sci code stuff/Projects/ProjectTemplate/GuessingGame/GuessingGame.csproj",
         "packagesPath": "/Users/georgeflux/.nuget/packages/",
-        "outputPath": "/Users/georgeflux/GuessingGame/obj/",
+        "outputPath": "/Users/georgeflux/Desktop/Comp Sci code stuff/Projects/ProjectTemplate/GuessingGame/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/georgeflux/.nuget/NuGet/NuGet.Config"
